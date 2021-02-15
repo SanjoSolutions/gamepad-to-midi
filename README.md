@@ -24,3 +24,7 @@ for the script and as a MIDI input in a DAW.
 #### Ableton Live
 
 "Edit MIDI Map" and press the button on the controller to use.
+
+## Demo
+
+[Demo](https://sanjosolutions.github.io/gamepad-to-midi/)
